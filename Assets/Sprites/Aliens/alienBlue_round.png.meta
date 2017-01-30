@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: 3012544b55a5940af8ff549fea32fd40
+timeCreated: 1485534440
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alienBlue_round_0
+    21300002: alienBlue_round_1
+    21300004: alienBlue_round_2
+    21300006: alienBlue_round_3
+    21300008: alienBlue_round_4
+    21300010: alienBlue_round_5
+    21300012: alienBlue_round_6
+    21300014: alienBlue_round_7
+    21300016: alienBlue_round_8
+    21300018: alienBlue_round_9
+    21300020: alienBlue_round_10
+    21300022: alienBlue_round_11
+    21300024: alienBlue_round_12
+    21300026: alienBlue_round_13
+    21300028: alienBlue_round_14
+    21300030: alienBlue_round_15
+    21300032: alienBlue_round_16
+    21300034: alienBlue_round_17
+    21300036: alienBlue_round_18
+    21300038: alienBlue_round_19
+    21300040: alienBlue_round_20
+    21300042: alienBlue_round_21
+    21300044: alienBlue_round_22
+    21300046: alienBlue_round_23
+    21300048: alienBlue_round_24
+    21300050: alienBlue_round_25
+    21300052: alienBlue_round_26
+    21300054: alienBlue_round_27
+    21300056: alienBlue_round_28
+    21300058: alienBlue_round_29
+    21300060: alienBlue_round_30
+    21300062: alienBlue_round_31
+    21300064: alienBlue_round_32
+    21300066: alienBlue_round_33
+    21300068: alienBlue_round_34
+    21300070: alienBlue_round_35
+    21300072: alienBlue_round_36
+    21300074: alienBlue_round_37
+    21300076: alienBlue_round_38
+    21300078: alienBlue_round_39
+    21300080: alienBlue_round_40
+    21300082: alienBlue_round_41
+    21300084: alienBlue_round_42
+    21300086: alienBlue_round_43
+    21300088: alienBlue_round_44
+    21300090: alienBlue_round_45
+    21300092: alienBlue_round_46
+    21300094: alienBlue_round_47
+    21300096: alienBlue_round_48
+    21300098: alienBlue_round_49
+    21300100: alienBlue_round_50
+    21300102: alienBlue_round_51
+    21300104: alienBlue_round_52
+    21300106: alienBlue_round_53
+    21300108: alienBlue_round_54
+    21300110: alienBlue_round_55
+    21300112: alienBlue_round_56
+    21300114: alienBlue_round_57
+    21300116: alienBlue_round_58
+    21300118: alienBlue_round_59
+    21300120: alienBlue_round_60
+    21300122: alienBlue_round_61
+    21300124: alienBlue_round_62
+    21300126: alienBlue_round_63
+    21300128: alienBlue_round_64
+    21300130: alienBlue_round_65
+    21300132: alienBlue_round_66
+    21300134: alienBlue_round_67
+    21300136: alienBlue_round_68
+    21300138: alienBlue_round_69
+    21300140: alienBlue_round_70
+    21300142: alienBlue_round_71
+    21300144: alienBlue_round_72
+    21300146: alienBlue_round_73
+    21300148: alienBlue_round_74
+    21300150: alienBlue_round_75
+    21300152: alienBlue_round_76
+    21300154: alienBlue_round_77
+    21300156: alienBlue_round_78
+    21300158: alienBlue_round_79
+    21300160: alienBlue_round_80
+    21300162: alienBlue_round_81
+    21300164: alienBlue_round_82
+    21300166: alienBlue_round_83
+    21300168: alienBlue_round_84
+    21300170: alienBlue_round_85
+    21300172: alienBlue_round_86
+    21300174: alienBlue_round_87
+    21300176: alienBlue_round_88
+    21300178: alienBlue_round_89
+    21300180: alienBlue_round_90
+    21300182: alienBlue_round_91
+    21300184: alienBlue_round_92
+    21300186: alienBlue_round_93
+    21300188: alienBlue_round_94
+    21300190: alienBlue_round_95
+    21300192: alienBlue_round_96
+    21300194: alienBlue_round_97
+    21300196: alienBlue_round_98
+    21300198: alienBlue_round_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alienBlue_round_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 52.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 52.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 35.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 18.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: alienBlue_round_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1.5
+        width: 17.5
+        height: 17.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
